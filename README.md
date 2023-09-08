@@ -1,6 +1,6 @@
 # Our process for fine-tuning Llama 2 with custom data
 
-We successfully trained LLaMA-2-7b-hf on a custom dataset to perform a single, routine task (keyword extraction). We thought this would be easy, but it was WAY HARDER than we expected. We went down a lot of wrong turns, and many of the notebooks/code examples either didn't work or were improperly documented. 
+We successfully trained **LLaMA-2-7b-hf** on a custom dataset to perform a *single, routine task* (keyword extraction). We thought this would be easy, but it was WAY HARDER than we expected. We went down a lot of wrong turns, and many of the notebooks/code examples either didn't work or were improperly documented. 
 
 **Much of the code in this notebook is borrowed from other walkthroughs. There are a few key changes that took us a while to figure out, and so we were inspired to share.**
 
