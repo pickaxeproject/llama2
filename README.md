@@ -11,4 +11,4 @@ We successfully trained LLaMA-2-7b-hf on a custom dataset to perform a single, r
 3. **ChatGPT** open in another tab. This notebook works for us as of **September 2023** but there's no gaurantee it'll work for you. With any luck, you (and ChatGPT) should be able to overcome any obstacles that arise. 
 4. About **2 hours** of setup and the patience to wait **5-8 hours** for results.
 
-# Take a look at ```llama2-finetune.ipynb``` to  get started!
+**Take a look at ```llama2-finetune.ipynb``` to  get started!**
